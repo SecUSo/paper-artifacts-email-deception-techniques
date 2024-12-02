@@ -1,0 +1,20 @@
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A04-Link-Hexadecimal-Encoding - f5fd17
+Mailgen-File: A04-Link-Hexadecimal-Encoding.json
+Mailgen-Description: 
+from: Alice <alice@trusted-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:03:00 GMT
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <a href="https://airbnb.de%2e%6d%61%6c%69%63%69%6f%75%73%2d%70%61%67%65%2e%64%65"
+        >Link</a>
+    
+  </body>
+</html>

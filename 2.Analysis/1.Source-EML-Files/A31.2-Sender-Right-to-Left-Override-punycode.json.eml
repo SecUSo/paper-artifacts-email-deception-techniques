@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A31.2-Sender-Right-to-Left-Override-punycode - 8b28fd
+Mailgen-File: A31.2-Sender-Right-to-Left-Override-punycode.json
+Mailgen-Description: 
+from: alice@xn--ed-f4t.egap-detsurt.de
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:20:00 GMT
+
+

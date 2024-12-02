@@ -1,0 +1,1 @@
+Note, each folder contains beside the screenshots also the Source-EML-File. This is the same Source-EML-File in the collection ../Source-EML-Files. These files are loaded into the mail client using a mailbox with Internet Message Access Protocol (IMAP Protocol).

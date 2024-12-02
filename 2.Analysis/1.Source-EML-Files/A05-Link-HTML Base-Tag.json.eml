@@ -1,0 +1,21 @@
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A05-Link-HTML Base-Tag - 390009
+Mailgen-File: A05-Link-HTML Base-Tag.json
+Mailgen-Description: 
+from: Alice <alice@trusted-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:04:00 GMT
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <base href="https://malicious-page.de/" target="_blank" />
+  </head>
+  <body>
+    <a href="trusted-page.de"
+        >Link</a>
+    
+  </body>
+</html>

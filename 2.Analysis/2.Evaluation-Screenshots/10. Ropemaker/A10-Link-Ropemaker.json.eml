@@ -1,0 +1,20 @@
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A10-Link-Ropemaker - 91deb2
+Mailgen-File: A10-Link-Ropemaker.json
+Mailgen-Description: 
+from: Alice <alice@trusted-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:09:00 GMT
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <style>#link2{display:none;}</style>
+    <link rel="stylesheet" href="https://granlem.github.io/SecUSoMailSecurity/example-pages/ropemaker-links.css">
+  </head>
+  <body>
+    <span id="link1"><a href="https://trusted-page.de">Link</a></span><span id="link2"><a href="https://malicious-page.de">Link</a></span>
+  </body>
+</html>

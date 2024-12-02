@@ -1,0 +1,20 @@
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A21.2-Link-Non-Ascii-Characters-punycode
+Mailgen-File: A21.2-Link-Non-Ascii-Characters-punycode.json
+Mailgen-Description:
+from: Alice <alice@trusted-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:14:00 GMT
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <a href="https://xn--80a2aar51d.com/"
+        >Link</a>
+
+  </body>
+</html>

@@ -1,0 +1,14 @@
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: A21.2-Link-Non-Ascii-Characters-punycode - 6956a1
+Mailgen-File: A21.2-Link-Non-Ascii-Characters-punycode.json
+Mailgen-Description: 
+from: Alice <alice@trusted-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:15:00 GMT
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRl
+bnQ9InRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCI+CiAgPC9oZWFkPgogIDxib2R5PgogICAgPGEg
+aHJlZj0iaHR0cHM6Ly/Rg9Cw0rvQvtC+LmNvbS8iCiAgICAgICAgPkxpbms8L2E+CiAgICAKICA8
+L2JvZHk+CjwvaHRtbD4K

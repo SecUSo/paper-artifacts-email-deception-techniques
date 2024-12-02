@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A20.1-Sender-Non-Ascii-Characters-utf - 592b51
+Mailgen-File: A20.1-Sender-Non-Ascii-Characters-utf.json
+Mailgen-Description: 
+from: =?utf-8?b?c3VwcG9ydEDRg9Cw0rvQvtC+LmNvbQ==?=
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:12:00 GMT
+
+

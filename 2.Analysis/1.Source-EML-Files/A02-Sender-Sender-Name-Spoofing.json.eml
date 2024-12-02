@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: A02-Sender-Sender-Name-Spoofing - f9178a
+Mailgen-File: A02-Sender-Sender-Name-Spoofing.json
+Mailgen-Description: 
+from: Trusted Page Support <mallory@malicious-page.de>
+to: Bob <bob@trusted-page.de>
+Date: Fri, 01 Jan 2021 00:00:00 GMT
+
+
